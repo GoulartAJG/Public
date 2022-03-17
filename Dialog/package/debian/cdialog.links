@@ -1,3 +1,0 @@
-#! /usr/bin/dh-exec
-
-/lib/${DEB_HOST_MULTIARCH}/libcdialog.so.DST /lib/${DEB_HOST_MULTIARCH}/libcdialog.so.SRC
